@@ -1,4 +1,4 @@
-import { about } from "@/data/site";
+import  { about } from "@/data/site";
 
 export function About() {
   return (
